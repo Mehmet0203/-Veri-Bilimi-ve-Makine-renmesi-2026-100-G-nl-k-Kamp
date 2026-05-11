@@ -63,7 +63,7 @@ Bu repo, Atıl Samancıoğlu'nun Udemy'deki *Veri Bilimi ve Makine Öğrenmesi 2
 ## 📈 İlerleme Takibi
 
 ```
-Gün   1 / 100  ████░░░░░░░░░░░░░░░░  %1
+Gün   15 / 100  ████░░░░░░░░░░░  %15
 ```
 
 > Bu bölümü her hafta manuel olarak güncelleyeceğim.
@@ -115,8 +115,8 @@ Her `gunluk-notlar/gun-XXX.md` dosyası şu şekilde olacak:
 
 ## 🏆 Kilometre Taşları
 
-- [ ] Gün 1 — Yolculuk başladı 🚀
-- [ ] Gün 10 — İlk 10 gün tamamlandı
+- [✓] Gün 1 — Yolculuk başladı 🚀
+- [✓] Gün 10 — İlk 10 gün tamamlandı
 - [ ] Gün 25 — İlk proje
 - [ ] Gün 50 — Yarı yol!
 - [ ] Gün 75 — ML modelleri çalışıyor
