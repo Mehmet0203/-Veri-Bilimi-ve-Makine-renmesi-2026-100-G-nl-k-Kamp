@@ -44,11 +44,13 @@ Bu repo, Atıl Samancıoğlu'nun Udemy'deki *Veri Bilimi ve Makine Öğrenmesi 2
 │
 ├── bolumler/
 │   ├── 01-python-temelleri/
-│   ├── 02-numpy/
-│   ├── 03-pandas/
-│   ├── 04-veri-gorsellestirme/
-│   ├── 05-veri-on-isleme/
-│   ├── 06-makine-ogrenmesi/
+│   ├── 02-sql
+    ├── 03-temel matematik ve istatistik
+|   ├── 04-numpy/
+│   ├── 05-pandas/
+│   ├── 06-veri-gorsellestirme/
+│   ├── 07-veri-on-isleme/
+│   ├── 08-makine-ogrenmesi/
 │   └── ...
 │
 ├── projeler/
