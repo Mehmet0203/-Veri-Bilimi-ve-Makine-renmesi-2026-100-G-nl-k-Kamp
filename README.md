@@ -45,7 +45,7 @@ Bu repo, Atıl Samancıoğlu'nun Udemy'deki *Veri Bilimi ve Makine Öğrenmesi 2
 ├── bolumler/
 │   ├── 01-python-temelleri/
 │   ├── 02-sql
-    ├── 03-temel matematik ve istatistik
+|   ├── 03-temel matematik ve istatistik
 |   ├── 04-numpy/
 │   ├── 05-pandas/
 │   ├── 06-veri-gorsellestirme/
