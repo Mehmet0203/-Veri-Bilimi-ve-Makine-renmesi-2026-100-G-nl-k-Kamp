@@ -19,8 +19,8 @@ Bu repo, Atıl Samancıoğlu'nun Udemy'deki *Veri Bilimi ve Makine Öğrenmesi 2
 |-------|------|-------|
 | 1 | Python Temelleri | ⬜ Başlandı |
 | 2 | NumPy | ⬜ Başlandı |
-| 3 | Pandas | ⬜ Başlanmadı |
-| 4 | Veri Görselleştirme (Matplotlib & Seaborn) | ⬜ Başlanmadı |
+| 3 | Pandas | ⬜ Başlandı |
+| 4 | Veri Görselleştirme (Matplotlib & Seaborn) | ⬜ Başlandı |
 | 5 | Veri Ön İşleme | ⬜ Başlanmadı |
 | 6 | Makine Öğrenmesi (Scikit-learn) | ⬜ Başlanmadı |
 | 7 | Denetimli Öğrenme | ⬜ Başlanmadı |
@@ -65,7 +65,7 @@ Bu repo, Atıl Samancıoğlu'nun Udemy'deki *Veri Bilimi ve Makine Öğrenmesi 2
 ## 📈 İlerleme Takibi
 
 ```
-Gün   20 / 100  ████░░░░░░░░░░░  %20
+Gün   29 / 100  ████░░░░░░░░░░░  %29
 ```
 
 > Bu bölümü her hafta manuel olarak güncelleyeceğim.
