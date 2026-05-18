@@ -65,7 +65,7 @@ Bu repo, Atıl Samancıoğlu'nun Udemy'deki *Veri Bilimi ve Makine Öğrenmesi 2
 ## 📈 İlerleme Takibi
 
 ```
-Gün   29 / 100  ████░░░░░░░░░░░  %29
+Gün   33 / 100  ██████░░░░░░░░░░░░░░  %33
 ```
 
 > Bu bölümü her hafta manuel olarak güncelleyeceğim.
@@ -93,7 +93,7 @@ Gün   29 / 100  ████░░░░░░░░░░░  %29
 
 ## 📝 Günlük Not Şablonu
 
-Her `gunluk-notlar/gun-XXX.md` dosyası şu şekilde olacak:
+Her `gunluk-notlar/gun-XXX.pdf` dosyası şu şekilde olacak:
 
 ```markdown
 ## 📅 Gün XXX — [Tarih]
@@ -119,7 +119,7 @@ Her `gunluk-notlar/gun-XXX.md` dosyası şu şekilde olacak:
 
 - [✓] Gün 1 — Yolculuk başladı 🚀
 - [✓] Gün 10 — İlk 10 gün tamamlandı
-- [ ] Gün 25 — İlk proje
+- [✓]] Gün 25 — İlk proje
 - [ ] Gün 50 — Yarı yol!
 - [ ] Gün 75 — ML modelleri çalışıyor
 - [ ] Gün 100 — Kamp tamamlandı 🎓
